@@ -1,0 +1,24 @@
+{
+  "name": "node_paypal_sample",
+  "version": "1.0.0",
+  "description": "Sample PayPal App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-smith-small-projects/Node.js-PayPal-REST-SDK.git"
+  },
+  "author": "Brandon Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandon-smith-small-projects/Node.js-PayPal-REST-SDK/issues"
+  },
+  "homepage": "https://github.com/brandon-smith-small-projects/Node.js-PayPal-REST-SDK#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
